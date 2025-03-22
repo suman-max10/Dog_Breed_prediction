@@ -1,0 +1,11 @@
+# requirements.txt for Dog Breed Prediction App
+
+# Core libraries
+numpy
+streamlit
+opencv-python
+tensorflow  # No version specified
+keras      # No version specified
+
+# Additional utilities (if needed)
+Pillow
